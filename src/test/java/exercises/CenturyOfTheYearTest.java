@@ -10,7 +10,6 @@ public class CenturyOfTheYearTest {
     @Test
     public void century() {
         CenturyOfTheYear centuryOfTheYear = new CenturyOfTheYear();
-
         assertEquals(centuryOfTheYear.century(1), 1);
         assertEquals(centuryOfTheYear.century(101), 2);
         assertEquals(centuryOfTheYear.century(200), 2);
