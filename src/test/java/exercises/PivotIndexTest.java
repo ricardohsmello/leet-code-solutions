@@ -30,22 +30,6 @@ public class PivotIndexTest {
         assertEquals(pivot, indexTarget);
 
     }
-
-//    @Test
-//    public void pivot03() {
-//        int[] numbers = {-1,-1,-1,-1,-1,0};
-//
-//        int indexTarget = 2;
-//        PivotIndex pivotIndex = new PivotIndex();
-//        int pivot = pivotIndex.pivot(numbers);
-//
-//        assertEquals(pivot, indexTarget);
-//
-//    }
-
-
-
-
     @Test
     public void shouldReturn_negative1() {
         int[] numbers = {1,2,3};
