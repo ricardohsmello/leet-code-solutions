@@ -41,7 +41,6 @@ public class BinarySearch {
             return -1;
         }
 
-
         if (currentNumber == target)
             return middle;
 
