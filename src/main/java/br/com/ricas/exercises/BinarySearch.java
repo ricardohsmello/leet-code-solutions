@@ -30,7 +30,6 @@ public class BinarySearch {
         *     target will be on the rightPart of array
         *
         * */
-
         return recursive(nums, target, 0, nums.length -1);
     }
 
