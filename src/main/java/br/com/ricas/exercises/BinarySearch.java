@@ -49,7 +49,6 @@ public class BinarySearch {
         } else {
             return recursive(nums, target, middle + 1, max);
         }
-
     }
 }
 
