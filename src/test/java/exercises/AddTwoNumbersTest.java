@@ -30,7 +30,6 @@ public class AddTwoNumbersTest {
         ListNode l2 = new ListNode(0);
 
         add.addTwoNumbers(l1, l2);
-
     }
 
     @Test
