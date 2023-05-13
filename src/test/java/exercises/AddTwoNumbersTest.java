@@ -31,11 +31,4 @@ public class AddTwoNumbersTest {
 
         add.addTwoNumbers(l1, l2);
     }
-
-    @Test
-    public void addTwoNumbers02() {
-
-
-
-    }
 }
