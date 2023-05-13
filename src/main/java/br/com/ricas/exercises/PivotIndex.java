@@ -38,7 +38,6 @@ public class PivotIndex {
     }
 
     private int recursion(int[] numbers, int index, int left, int right) {
-
         for (int i = 0; i < index ; i++) {
             left+= numbers[i];
         }
