@@ -33,7 +33,6 @@ public class BinarySearch {
 
         return recursive(nums, target, 0, nums.length -1);
 
-
     }
 
     public int recursive(int[] nums, int target, int min, int max) {
