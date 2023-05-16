@@ -20,7 +20,6 @@ public class BinarySearchTest {
         BinarySearch binarySearch = new BinarySearch();
         int[] nums = {-1,0,3,5,9,12};
         int target = 0;
-
         assertEquals(binarySearch.search(nums, target), 1);
     }
 
@@ -29,7 +28,6 @@ public class BinarySearchTest {
         BinarySearch binarySearch = new BinarySearch();
         int[] nums = {-1,0,3,5,9,12};
         int target = 13;
-
         assertEquals(binarySearch.search(nums, target), -1);
     }
 }
