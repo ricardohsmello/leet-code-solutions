@@ -11,6 +11,5 @@ public class RunningSumTest {
 
         RunningSum r = new RunningSum();
         r.runningSum(numbers);
-
     }
 }
