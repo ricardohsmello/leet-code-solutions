@@ -12,7 +12,6 @@ public class BinarySearchTest {
         BinarySearch binarySearch = new BinarySearch();
         int[] nums = {-1,0,3,5,9,12};
         int target = 9;
-
         assertEquals(binarySearch.search(nums, target), 4);
     }
 
