@@ -36,7 +36,6 @@ public class BinarySearch {
     public int recursive(int[] nums, int target, int min, int max) {
         int middle = (min + max) / 2;
         int currentNumber = nums[middle];
-
         if (min > max) {
             return -1;
         }
