@@ -24,7 +24,6 @@ public class PivotIndexTest {
         int indexTarget = 3;
         PivotIndex pivotIndex = new PivotIndex();
         int pivot = pivotIndex.pivot(numbers);
-
         assertEquals(pivot, indexTarget);
     }
     @Test
