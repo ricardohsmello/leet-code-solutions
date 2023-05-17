@@ -7,7 +7,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 public class PalindromeNumberTest {
-    //71317
     @Test
     public void isNotPalindrome01() {
         PalindromeNumber p = new PalindromeNumber();
