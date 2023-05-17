@@ -27,7 +27,6 @@ public class PalindromeNumber {
             secondPart = new StringBuilder(s.substring(middle+1)).reverse().toString();
         }
 
-
         return firstPart.contentEquals(secondPart);
 
     }
