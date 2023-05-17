@@ -33,7 +33,6 @@ public class PivotIndexTest {
         int indexTarget = -1;
         PivotIndex pivotIndex = new PivotIndex();
         int pivot = pivotIndex.pivot(numbers);
-
         assertEquals(pivot, indexTarget);
     }
 
