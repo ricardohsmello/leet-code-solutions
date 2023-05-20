@@ -29,7 +29,6 @@ public class PivotIndexTest {
     @Test
     public void shouldReturn_negative1() {
         int[] numbers = {1,2,3};
-
         int indexTarget = -1;
         PivotIndex pivotIndex = new PivotIndex();
         int pivot = pivotIndex.pivot(numbers);
