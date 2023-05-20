@@ -10,7 +10,6 @@ public class PivotIndexTest {
     @Test
     public void pivot() {
         int[] numbers = { 2,3,-1,8,4};
-
         int indexTarget = 3;
         PivotIndex pivotIndex = new PivotIndex();
         int pivot = pivotIndex.pivot(numbers);
