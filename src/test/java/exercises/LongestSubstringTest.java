@@ -28,7 +28,6 @@ public class LongestSubstringTest {
     @Test
     public void test02() {
         String s = "bbbbb";
-
         LongestSubstring longestSubstring = new LongestSubstring();
         int i = longestSubstring.lengthOfLongestSubstring(s);
 
