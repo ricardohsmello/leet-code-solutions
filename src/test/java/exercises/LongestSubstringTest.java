@@ -22,7 +22,6 @@ public class LongestSubstringTest {
         String s = "abcabcdbb";
         LongestSubstring longestSubstring = new LongestSubstring();
         int i = longestSubstring.lengthOfLongestSubstring(s);
-
         assertEquals(4, i);
     }
 
