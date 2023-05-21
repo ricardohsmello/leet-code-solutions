@@ -28,7 +28,6 @@ public class PivotIndexTest {
         int pivot = pivotIndex.pivot(numbers);
         assertEquals(pivot, indexTarget);
     }
-
     @Test
     public void shouldReturn_zero() {
         int[] numbers = {2,1,-1};
