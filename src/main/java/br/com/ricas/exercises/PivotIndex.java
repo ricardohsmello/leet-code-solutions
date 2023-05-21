@@ -31,7 +31,6 @@ public class PivotIndex {
 
             leftSum += numbers[i];
         }
-
         return -1;
 
     }
