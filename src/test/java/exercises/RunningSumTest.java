@@ -2,7 +2,6 @@ package exercises;
 
 import br.com.ricas.exercises.RunningSum;
 import org.junit.jupiter.api.Test;
-
 public class RunningSumTest {
     @Test
     public void runningSum() {
