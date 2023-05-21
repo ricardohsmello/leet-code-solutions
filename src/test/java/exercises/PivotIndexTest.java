@@ -1,5 +1,4 @@
 package exercises;
-
 import br.com.ricas.exercises.PivotIndex;
 import org.junit.jupiter.api.Test;
 
