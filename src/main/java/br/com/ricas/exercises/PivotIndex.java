@@ -52,7 +52,6 @@ public class PivotIndex {
 
         if (right > left)
             return recursion(numbers, index+1, 0, 0);
-
         return 0;
     }
 }
