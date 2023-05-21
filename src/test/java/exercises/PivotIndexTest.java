@@ -3,7 +3,6 @@ import br.com.ricas.exercises.PivotIndex;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 public class PivotIndexTest {
-
     @Test
     public void pivot() {
         int[] numbers = { 2,3,-1,8,4};
