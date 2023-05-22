@@ -19,7 +19,6 @@ public class AddTwoNumbers {
         ListNode result = new ListNode(0);
         ListNode l3 = result;
         int carry = 0;
-
         while (l1 != null || l2 != null) {
 
 
