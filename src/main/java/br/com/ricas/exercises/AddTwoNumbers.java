@@ -16,7 +16,6 @@ Explanation: 342 + 465 = 807.
 public class AddTwoNumbers {
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-
         ListNode result = new ListNode(0);
         ListNode l3 = result;
         int carry = 0;
