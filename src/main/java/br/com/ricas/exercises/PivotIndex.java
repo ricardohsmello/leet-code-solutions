@@ -15,7 +15,6 @@ Left sum = nums[0] + nums[1] + nums[2] = 1 + 7 + 3 = 11
 Right sum = nums[4] + nums[5] = 5 + 6 = 11*/
 public class PivotIndex {
     public int pivot(int[] numbers) {
-
         int total = Arrays.stream(numbers).sum();
         int leftSum = 0;
         for (int i = 0; i < numbers.length; i++) {
