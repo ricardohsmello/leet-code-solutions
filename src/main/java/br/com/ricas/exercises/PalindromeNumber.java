@@ -3,7 +3,6 @@ package br.com.ricas.exercises;
 palindrome
 , and false otherwise.
 Example 1:
-
 Input: x = 121
 10
 Output: true
