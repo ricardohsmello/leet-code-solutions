@@ -35,7 +35,6 @@ public class AddTwoNumbers {
             if (l2 != null) l2 = l2.next;
 
             l3 = l3.next;
-
         }
 
         if (carry > 0) {
