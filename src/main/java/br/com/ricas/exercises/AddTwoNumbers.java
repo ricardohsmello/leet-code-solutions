@@ -46,6 +46,5 @@ public class AddTwoNumbers {
         return result.next;
     }
 
-
 }
 
