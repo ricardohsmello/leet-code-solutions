@@ -14,7 +14,6 @@ Explanation: 9 exists in nums and its index is 4
 * */
 public class BinarySearch {
     public int search(int[] nums, int target) {
-
         /*
         * 1. Divided nums to get the middle position.
         * 2. Verify if middle value is greater than target
