@@ -37,7 +37,6 @@ public class TwoSumTest {
     public void givenTarget3ShouldReturnPosition0And1() {
         int[] expected = {1, 2};
         int[] numbers = {3,3};
-
         TwoSum two = new TwoSum();
 
         int target = 6;
