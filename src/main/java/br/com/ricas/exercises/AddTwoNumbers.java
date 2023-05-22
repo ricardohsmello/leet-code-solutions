@@ -21,7 +21,6 @@ public class AddTwoNumbers {
         int carry = 0;
         while (l1 != null || l2 != null) {
 
-
             int l1_val = (l1 != null) ? l1.val : 0;
             int l2_val = (l2 != null) ? l2.val : 0;
 
