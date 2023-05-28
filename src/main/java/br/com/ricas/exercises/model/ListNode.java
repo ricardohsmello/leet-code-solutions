@@ -6,7 +6,6 @@ public class ListNode {
 
     ListNode() {
     }
-
     public ListNode(int val) {
         this.val = val;
     }
