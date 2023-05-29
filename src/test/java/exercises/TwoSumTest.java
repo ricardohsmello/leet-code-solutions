@@ -70,5 +70,4 @@ public class TwoSumTest {
         assertEquals(two.oC(numbers, target)[1], expected[1]);
     }
 
-
 }
