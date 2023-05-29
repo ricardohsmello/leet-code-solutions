@@ -5,7 +5,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class TwoSumTest {
-
     @Test
     public void givenTarget9ShouldReturnPosition0And1() {
         int[] expected = {0, 1};
