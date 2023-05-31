@@ -37,7 +37,6 @@ public class LongestSubstringTest {
         String s = "pwwkew";
         LongestSubstring longestSubstring = new LongestSubstring();
         int i = longestSubstring.lengthOfLongestSubstring(s);
-
         assertEquals(3, i);
     }
 
