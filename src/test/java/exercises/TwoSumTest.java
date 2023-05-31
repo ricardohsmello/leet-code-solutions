@@ -52,7 +52,6 @@ public class TwoSumTest {
     public void anotherTest01() {
         int[] expected = {1, 2};
         int[] numbers = {2,5,5,11};
-
         TwoSum two = new TwoSum();
 
         int target = 10;
