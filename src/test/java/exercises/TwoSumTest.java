@@ -9,7 +9,6 @@ public class TwoSumTest {
     public void givenTarget9ShouldReturnPosition0And1() {
         int[] expected = {0, 1};
         int[] numbers = {2,7,11,15};
-
         TwoSum two = new TwoSum();
         int target = 9;
 
