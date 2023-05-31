@@ -10,7 +10,6 @@ Explanation: 121 reads as 121 from left to right and from right to left.*/
 public class PalindromeNumber {
     public boolean isPalindrome(int x) {
         String s = String.valueOf(x);
-
         if (s.length() == 1)
             return true;
 
