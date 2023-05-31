@@ -54,7 +54,6 @@ public class TwoSumTest {
         int[] numbers = {2,5,5,11};
         TwoSum two = new TwoSum();
         int target = 10;
-
         assertEquals(two.oC(numbers, target)[0], expected[0]);
         assertEquals(two.oC(numbers, target)[1], expected[1]);
     }
