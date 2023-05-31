@@ -33,7 +33,6 @@ public class TwoSumTest {
         int[] expected = {1, 2};
         int[] numbers = {3,3};
         TwoSum two = new TwoSum();
-
         int target = 6;
 
         assertEquals(two.oC(numbers, target)[0], expected[0]);
