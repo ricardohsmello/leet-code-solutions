@@ -44,7 +44,6 @@ public class TwoSumTest {
     public void anotherTest() {
         int[] expected = {1, 2};
         int[] numbers = {3,2,3};
-
         TwoSum two = new TwoSum();
 
         int target = 6;
