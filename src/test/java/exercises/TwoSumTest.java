@@ -11,7 +11,6 @@ public class TwoSumTest {
         int[] numbers = {2,7,11,15};
 
         TwoSum two = new TwoSum();
-
         int target = 9;
 
         assertEquals(two.oC(numbers, target)[0], expected[0]);
