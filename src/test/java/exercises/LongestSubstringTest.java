@@ -59,7 +59,6 @@ public class LongestSubstringTest {
     @Test
     public void test6() {
         String s = "dvdf";
-
         LongestSubstring longestSubstring = new LongestSubstring();
         int i = longestSubstring.lengthOfLongestSubstring(s);
 
