@@ -77,7 +77,6 @@ class Player {
         this.name = name;
         this.gems = gems;
     }
-
 }
 
 class Card {
