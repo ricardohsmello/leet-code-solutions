@@ -36,7 +36,6 @@ The data model and structure of the program is up to you.
 public class CardBase {
 
     public static void main(String[] args) {
-
         Card card = new Card();
         card.createGem("W", 3);
         card.createGem("G", 2);
