@@ -48,7 +48,6 @@ public class CardBase {
 
         player.createPlayer("Ricardo", gems);
         boolean value = canPurchase(card.getGems(), player.gems);
-
         System.out.println(value);
     }
 
