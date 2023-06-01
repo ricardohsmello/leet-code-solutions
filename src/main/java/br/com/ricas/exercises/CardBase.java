@@ -62,7 +62,6 @@ public class CardBase {
             if (players.get(c.getKey()) < c.getValue()) {
                 return false;
             }
-
         }
 
         return true;
