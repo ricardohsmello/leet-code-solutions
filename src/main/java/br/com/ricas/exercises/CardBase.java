@@ -67,7 +67,6 @@ public class CardBase {
 }
 
 
-
 class Player {
     String name;
     Map<String, Integer> gems = new HashMap<>();
