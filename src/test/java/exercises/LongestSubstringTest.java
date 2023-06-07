@@ -45,7 +45,6 @@ public class LongestSubstringTest {
         int i = longestSubstring.lengthOfLongestSubstring(s);
         assertEquals(0, i);
     }
-
     @Test
     public void test5() {
         String s = "au";
