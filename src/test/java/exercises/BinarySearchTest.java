@@ -12,7 +12,6 @@ public class BinarySearchTest {
         int target = 9;
         assertEquals(binarySearch.search(nums, target), 4);
     }
-
     @Test
     public void shouldTestBinarySearch02() {
         BinarySearch binarySearch = new BinarySearch();
