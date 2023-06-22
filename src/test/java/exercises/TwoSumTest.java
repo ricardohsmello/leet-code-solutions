@@ -40,7 +40,8 @@ public class TwoSumTest {
         int target = 6;
         assertEquals(two.oC(numbers, target)[0], expected[0]);
         assertEquals(two.oC(numbers, target)[1], expected[1]);
-    }    @Test
+    }
+    @Test
     public void anotherTest01() {
         int[] expected = {1, 2};
         int[] numbers = {2,5,5,11};
