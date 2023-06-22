@@ -11,7 +11,6 @@ public class PivotIndexTest {
         int pivot = pivotIndex.pivot(numbers);
         assertEquals(pivot, indexTarget);
     }
-
     @Test
     public void pivot01() {
         int[] numbers = {1,7,3,6,5,6};
