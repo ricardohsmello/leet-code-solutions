@@ -40,7 +40,6 @@ public class AddTwoNumbers {
             l3.next = node;
             l3 = l3.next;
         }
-
         return result.next;
     }
 }
