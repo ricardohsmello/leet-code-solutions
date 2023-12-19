@@ -12,7 +12,6 @@ substring
  without repeating characters.
 
 
-
 Example 1:
 
 Input: s = "abcabcbb"
